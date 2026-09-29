@@ -1,0 +1,29 @@
+{
+  "accession": "P01308",
+  "entry_name": "INS_HUMAN",
+  "protein_name": "Insulin",
+  "gene_name": "INS",
+  "organism": "Homo sapiens",
+  "taxonomy_id": 9606,
+  "sequence": "MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+  "length": 110,
+  "chains": {
+    "chain_b": {
+      "name": "Insulin B chain",
+      "sequence": "FVNQHLCGSHLVEALYLVCGERGFFYTPKT",
+      "start": 25,
+      "end": 54
+    },
+    "chain_a": {
+      "name": "Insulin A chain",
+      "sequence": "GIVEQCCTSICSLYQLENYCN",
+      "start": 90,
+      "end": 110
+    }
+  },
+  "disulfide_bonds": [
+    {"type": "Interchain", "chain_1": "A", "pos_1": 7, "chain_2": "B", "pos_2": 7},
+    {"type": "Interchain", "chain_1": "A", "pos_1": 20, "chain_2": "B", "pos_2": 19},
+    {"type": "Intrachain", "chain_1": "A", "pos_1": 6, "chain_2": "A", "pos_2": 11}
+  ]
+}

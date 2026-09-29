@@ -1,0 +1,28 @@
+{
+  "target_chembl_id": "CHEMBL214",
+  "pref_name": "Insulin receptor",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "tax_id": 9606,
+  "protein_class": "Receptor tyrosine kinase",
+  "bioactivities": [
+    {
+      "activity_id": 2109481,
+      "molecule_chembl_id": "CHEMBL1201582",
+      "molecule_name": "Insulin regular",
+      "standard_type": "IC50",
+      "standard_value": 0.18,
+      "standard_units": "nM",
+      "pchembl_value": 9.74
+    },
+    {
+      "activity_id": 3192084,
+      "molecule_chembl_id": "CHEMBL1201614",
+      "molecule_name": "Insulin glargine",
+      "standard_type": "Ki",
+      "standard_value": 0.40,
+      "standard_units": "nM",
+      "pchembl_value": 9.40
+    }
+  ]
+}

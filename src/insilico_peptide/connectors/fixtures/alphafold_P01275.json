@@ -1,0 +1,25 @@
+{
+  "entry_id": "AF-P01275-F1",
+  "uniprot_accession": "P01275",
+  "uniprot_id": "GLUC_HUMAN",
+  "gene": "GCG",
+  "organism_scientific_name": "Homo sapiens",
+  "tax_id": 9606,
+  "pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P01275-F1-model_v4.pdb",
+  "cif_url": "https://alphafold.ebi.ac.uk/files/AF-P01275-F1-model_v4.cif",
+  "bcif_url": "https://alphafold.ebi.ac.uk/files/AF-P01275-F1-model_v4.bcif",
+  "mean_plddt": 76.54,
+  "confidence_distribution": {
+    "very_high": 24.4,
+    "confident": 46.2,
+    "low": 18.4,
+    "very_low": 11.0
+  },
+  "sequence_length": 180,
+  "glp1_region_plddt": {
+    "start": 98,
+    "end": 128,
+    "mean_plddt": 84.21,
+    "structural_class": "Alpha-helical amphiphilic core"
+  }
+}

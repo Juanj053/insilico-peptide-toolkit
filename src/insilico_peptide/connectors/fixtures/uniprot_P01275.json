@@ -1,0 +1,32 @@
+{
+  "accession": "P01275",
+  "entry_name": "GLUC_HUMAN",
+  "protein_name": "Glucagon",
+  "gene_name": "GCG",
+  "organism": "Homo sapiens",
+  "taxonomy_id": 9606,
+  "sequence": "MKSIYFVAGLFVMLVQGSWQRSLQDTEEKSRSFSASQADPLSDPDQMNEDKRHSQGTFTSDYSKYLDSRRAQDFVQWLMNTKRNRNNIAKRHDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGRGRRDFPEEVAIVEELGRRHADGSFSDEMNTILDNLAARDFINWLIQTKITDRK",
+  "length": 180,
+  "features": [
+    {
+      "type": "Signal",
+      "start": 1,
+      "end": 20,
+      "description": "Signal peptide"
+    },
+    {
+      "type": "Peptide",
+      "start": 98,
+      "end": 128,
+      "description": "Glucagon-like peptide 1 (GLP-1(7-37))",
+      "peptide_sequence": "HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG"
+    },
+    {
+      "type": "Peptide",
+      "start": 53,
+      "end": 81,
+      "description": "Glucagon",
+      "peptide_sequence": "HSQGTFTSDYSKYLDSRRAQDFVQWLMNT"
+    }
+  ]
+}

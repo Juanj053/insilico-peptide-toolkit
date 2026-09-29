@@ -1,0 +1,23 @@
+{
+  "entry_id": "AF-P01308-F1",
+  "uniprot_accession": "P01308",
+  "uniprot_id": "INS_HUMAN",
+  "gene": "INS",
+  "organism_scientific_name": "Homo sapiens",
+  "tax_id": 9606,
+  "pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P01308-F1-model_v4.pdb",
+  "cif_url": "https://alphafold.ebi.ac.uk/files/AF-P01308-F1-model_v4.cif",
+  "bcif_url": "https://alphafold.ebi.ac.uk/files/AF-P01308-F1-model_v4.bcif",
+  "mean_plddt": 81.35,
+  "confidence_distribution": {
+    "very_high": 42.1,
+    "confident": 38.2,
+    "low": 12.7,
+    "very_low": 7.0
+  },
+  "sequence_length": 110,
+  "chains": {
+    "chain_b_plddt": 88.42,
+    "chain_a_plddt": 86.15
+  }
+}

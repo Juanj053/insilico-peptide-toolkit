@@ -1,0 +1,18 @@
+{
+  "accession": "GHK",
+  "entry_name": "GHK_HUMAN",
+  "protein_name": "Gly-His-Lys Tripeptide (Liver Growth Factor)",
+  "gene_name": "COL1A2_FRAG",
+  "organism": "Homo sapiens",
+  "taxonomy_id": 9606,
+  "sequence": "GHK",
+  "length": 3,
+  "features": [
+    {
+      "type": "Binding",
+      "start": 2,
+      "end": 2,
+      "description": "Copper(II) coordination center via His2 imidazole"
+    }
+  ]
+}

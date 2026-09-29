@@ -1,0 +1,24 @@
+{
+  "accession": "BPC157",
+  "entry_name": "BPC_HUMAN",
+  "protein_name": "Body Protection Compound-157 (Gastric Pentadecapeptide)",
+  "gene_name": "BPC",
+  "organism": "Homo sapiens",
+  "taxonomy_id": 9606,
+  "sequence": "GEPPPGKPADDAGLV",
+  "length": 15,
+  "features": [
+    {
+      "type": "Region",
+      "start": 1,
+      "end": 15,
+      "description": "Gastric juice stable pentadecapeptide fragment"
+    },
+    {
+      "type": "Site",
+      "start": 7,
+      "end": 8,
+      "description": "Lys7-Pro8 bond resistant to trypsin digestion via Proline block"
+    }
+  ]
+}

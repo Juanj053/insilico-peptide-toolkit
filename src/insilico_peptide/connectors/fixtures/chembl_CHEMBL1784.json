@@ -1,0 +1,37 @@
+{
+  "target_chembl_id": "CHEMBL1784",
+  "pref_name": "Glucagon-like peptide 1 receptor",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "tax_id": 9606,
+  "protein_class": "GPCR Class B (Secretin-like)",
+  "bioactivities": [
+    {
+      "activity_id": 18241902,
+      "molecule_chembl_id": "CHEMBL4105051",
+      "molecule_name": "Semaglutide",
+      "standard_type": "EC50",
+      "standard_value": 0.015,
+      "standard_units": "nM",
+      "pchembl_value": 10.82
+    },
+    {
+      "activity_id": 14210981,
+      "molecule_chembl_id": "CHEMBL508381",
+      "molecule_name": "Liraglutide",
+      "standard_type": "EC50",
+      "standard_value": 0.055,
+      "standard_units": "nM",
+      "pchembl_value": 10.26
+    },
+    {
+      "activity_id": 9182312,
+      "molecule_chembl_id": "CHEMBL273578",
+      "molecule_name": "GLP-1(7-36) amide",
+      "standard_type": "Ki",
+      "standard_value": 0.42,
+      "standard_units": "nM",
+      "pchembl_value": 9.38
+    }
+  ]
+}
