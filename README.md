@@ -4,12 +4,13 @@
 [![Python](https://img.shields.io/badge/python-%3E%3D3.10-brightgreen.svg)](https://www.python.org/)
 [![Build & Tests](https://img.shields.io/badge/tests-passing%20(pytest)-success.svg)](https://github.com/Juanj053/insilico-peptide-toolkit/actions)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](https://github.com/Juanj053/insilico-peptide-toolkit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Jos%C3%A9%20%C3%81lvarez-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/in/juanj-alva)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1234567-blue.svg)](https://doi.org/10.5281/zenodo.1234567)
 
 > **High-Performance In-Silico Biophysical Modeling, Mutational Screening, and Multi-Omic Profiling Toolkit for Bioactive Peptides**  
-> Developed and maintained by **Juan José Álvarez** ([@Juanj053](https://github.com/Juanj053)) — Chief Bioengineer & Founder at Elevate Biotech.
+> Developed and maintained by **Juan José Álvarez** ([@Juanj053](https://github.com/Juanj053) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/juanj-alva)) — Chief Bioengineer & Founder at Elevate Biotech.
 
 ---
 
@@ -326,6 +327,17 @@ If you utilize `insilico-peptide-toolkit` in academic research, drug discovery p
   doi          = {10.5281/zenodo.1234567}
 }
 ```
+
+---
+
+---
+
+## Author & Academic Contact
+**Juan José Álvarez Morales**  
+Chief Bioengineer & Founder, Elevate Biotech  
+- **LinkedIn:** [linkedin.com/in/juanj-alva](https://www.linkedin.com/in/juanj-alva)  
+- **GitHub:** [@Juanj053](https://github.com/Juanj053)  
+- **Email:** [`jjalvarezm77@gmail.com`](mailto:jjalvarezm77@gmail.com)  
 
 ---
 

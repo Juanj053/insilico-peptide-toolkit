@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, drug discovery pipelines, or grant submissions, please cite it as below."
+authors:
+  - family-names: "Álvarez Morales"
+    given-names: "Juan José"
+    email: "jjalvarezm77@gmail.com"
+    affiliation: "Elevate Biotech & Universidad Técnica de Ambato"
+title: "insilico-peptide-toolkit: In-Silico Biophysical Modeling, Mutational Screening, and Multi-Omic Profiling for Bioactive Peptides"
+version: 0.1.0
+doi: "10.5281/zenodo.1234567"
+date-released: 2026-09-28
+url: "https://github.com/Juanj053/insilico-peptide-toolkit"
+repository-code: "https://github.com/Juanj053/insilico-peptide-toolkit"
+license: MIT
+keywords:
+  - "bioactive-peptides"
+  - "biophysics"
+  - "alanine-scanning"
+  - "in-silico-screening"
+  - "bioinformatics"
+  - "alphafold"
+  - "uniprot"
+  - "chembl"
+  - "bioprocess"
